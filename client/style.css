@@ -10,14 +10,16 @@
 body {
   background: #343541;
   /* background-image: url('picwish.jpg'); */
+  /* background: url("./assets/background.png"); */
+
 }
 
 #app {
   width: 100vw;
   height: 100vh;
   background: #151800;
-  background-image: url("picwish.jpg");
-
+  background-image: url("./assets/background.png"); 
+  
   display: flex;
   flex-direction: column;
   align-items: center;
